@@ -1,0 +1,57 @@
+.body{
+    text-align: center;
+    margin-top: 50px;
+    background-color: navy;
+    margin: 5px 5px 5px 5px;
+}
+.divmar{
+    margin-top: 30px;
+}
+.input{
+    height: 35px;
+    /* color: white;
+    font: outline;
+    font-style: bold; */
+
+}
+.size{
+    width: 50%;
+    height: 30px;
+    background-color:grey;
+    color: white;
+    font-style: bold;
+    font: outline;
+    font-size: 25px;
+    margin: 5px 5px 5px 5px;
+}
+.blue{
+    background-color: blue;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5em;
+    width: 80px;
+    height: 40px;
+    font-style: bold;
+    border: 1px solid blue;
+   margin-top: 10px;
+}
+.bluee{
+    background-color: blue;
+    /* margin-left: 8px; */
+    margin: 5px 5px 5px 5px;
+    border-radius: 5em;
+    width: 100px;
+    height: 50px;
+    font-style: bold;
+    border: 1px solid blue;
+}
+/* .color{
+    color: white;
+    font: outline;
+    font-style: bold; 
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
+    margin-top: 20px;
+
+
+} */
